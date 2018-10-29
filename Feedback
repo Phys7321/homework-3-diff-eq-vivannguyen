@@ -1,0 +1,2 @@
+10.29
+I think that you have yet to start much of the MATLAB oscillator problem (and be careful, your first comments in that mlx file is clearly wrong - initial conditions do affect the phase diagrams). The heat visualizations look good though - don't forget to check that the last sinusodial initial condition looks like the analytical solution.
