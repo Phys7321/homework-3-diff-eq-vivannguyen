@@ -1,2 +1,4 @@
 10.29
 I think that you have yet to start much of the MATLAB oscillator problem (and be careful, your first comments in that mlx file is clearly wrong - initial conditions do affect the phase diagrams). The heat visualizations look good though - don't forget to check that the last sinusodial initial condition looks like the analytical solution.
+12.11
+Looking over the work you've done on the pendulum, I think you covered most of it. The phase plots, undamped and damped, look good. You're missing some phase angle calculations, but that is the hardest part of this assignment. It looks like you got the event function operating for the ode solver. You didn't get through the resonance work. IF you want to, we can still talk about these problems. 
